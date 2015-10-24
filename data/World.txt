@@ -1,0 +1,601 @@
+AGGH;91;520;Honiara / Henderson;;Solomon Islands;5;09-25S;160-03E;;;8;9;P
+AGGL;91;541;Santa Cruz;;Solomon Islands;5;10-42S;165-48E;10-42S;165-48E;23;24;P
+AGGM;91;503;Munda;;Solomon Islands;5;08-20S;157-16E;;;6;6;P
+ANAU;91;530;Nauru Airport;;Nauru;5;00-32S;166-55E;;;6;6;
+AYMD;94;014;Madang;;Papua New Guinea;5;05-13S;145-47E;05-13S;145-47E;3;5;P
+AYMO;--;---;Manus Island/Momote;;Papua New Guinea;5;02-03-43S;147-25-27E;;;4;;
+AYPY;94;035;Moresby;;Papua New Guinea;5;09-26S;147-13E;09-26S;147-13E;38;49;P
+AYWK;94;004;Wewak;;Papua New Guinea;5;03-34S;143-38E;;;6;;P
+BGAM;04;360;Tasiilaq;;Greenland;6;65-36N;037-38W;65-36N;037-38W;50;52;P
+BGAS;04;285;Angisoq;;Greenland;6;59-59N;045-12W;;;16;16;
+BGAT;04;351;Aputiteeq;;Greenland;6;67-47N;032-18W;;;13;12;
+BGBW;04;270;Narsarsuaq;;Greenland;6;61-10N;045-25W;61-11N;045-26W;34;32;P
+BGCO;04;341;Constable Pynt;;Greenland;6;70-45N;022-39W;;;14;10;
+BGDB;04;330;Daneborg;;Greenland;6;74-18N;020-13W;;;44;44;
+BGDH;04;320;Danmarkshavn;;Greenland;6;76-46N;018-40W;76-46N;018-40W;11;12;P
+BGEM;04;220;Egedesminde;;Greenland;6;68-42N;052-45W;68-42N;052-45W;43;41;P
+BGFH;04;260;Frederikshaab;;Greenland;6;62-00N;049-40W;;;13;15;P
+BGGD;04;261;Groennedal;;Greenland;6;61-14N;048-06W;;;35;32;
+BGGH;04;250;Godthaab / Nuuk;;Greenland;6;64-10N;051-45W;;;80;70;P
+BGHB;04;230;Holsteinsborg;;Greenland;6;66-55N;053-40W;;;12;9;P
+BGJH;04;272;Julianehaab;;Greenland;6;60-43N;046-03W;;;32;34;P
+BGJN;04;221;Jacobshavn Lufthavn;;Greenland;6;69-14N;051-04W;;;29;31;
+BGKK;04;361;Kulusuk Lufthavn;;Greenland;6;65-35N;037-09W;;;35;37;
+BGKT;04;340;Cape Tobin Automated Reporting Station ;;Greenland;6;70-25N;021-58W;70-25N;021-58W;41;41;
+BGPC;04;390;Prins Christian Sund;;Greenland;6;60-03N;043-10W;;;88;75;
+BGSC;04;339;Scoresbysund;;Greenland;6;70-29N;021-57W;70-29N;021-58W;65;69;
+BGSF;04;231;Sdr Stroemfjord;;Greenland;6;67-01N;050-42W;67-00N;050-48W;50;53;P
+BGTL;04;202;Thule A. B.;;Greenland;6;76-32N;068-45W;76-32N;068-45W;77;77;P
+BIAR;04;063;Akureyri;;Iceland;6;65-41N;018-05W;;;23;27;P
+BIEG;04;089;Egilsstadir;;Iceland;6;65-17N;014-24W;;;23;23;
+BIGR;04;065;Grimsey;;Iceland;6;66-32N;018-01W;;;15;16;
+BIHN;04;082;Akurnes;;Iceland;6;64-18N;015-13W;;;17;21;P
+BIKF;04;018;Keflavikurflugvollur;;Iceland;6;63-58N;022-36W;63-58N;022-36W;52;54;P
+BIRG;04;077;Raufarhofn;;Iceland;6;66-27N;015-57W;;;8;8;P
+BIRK;04;030;Reykjavik;;Iceland;6;64-08N;021-54W;;;54;61;P
+BIST;04;013;Stykkisholmur;;Iceland;6;65-05N;022-44W;;;8;8;
+BIVM;04;048;Vestmannaeyjar;;Iceland;6;63-24N;020-17W;;;118;124;P
+BIVO;04;085;Skjaldthingsstadir;;Iceland;6;65-42N;014-49W;;;44;48;
+BIX1;--;---;Biloxi, Keesler Air Force Base, Navu;MS;United States;4;30-24-07N;088-55-04W;40-18-00N;088-08-00W;224;228;
+BIX2;--;---;Biloxi, Keesler Air Force Base, Navu;MS;United States;4;30-24-34N;088-55-08W;30-24-34N;088-55-08W;7;10;
+BIX3;--;---;Biloxi, Keesler Air Force Base, Navu;MS;United States;4;30-24-36N;088-55-09W;30-24-34N;088-55-08W;7;10;
+CTPP;--;---;Camp Canargus;;Haiti;4;18-34N;072-19W;;;38;;
+CWAC;71;483;Nitinat Lake Meteorological Aeronautical Presentation System ;;Canada;4;48-40N;124-50W;;;41;;
+CWAD;--;---;Cape Mudge Light House ;;Canada;4;50-00N;125-12W;;;4;;
+CWAE;--;---;Whistler ;;Canada;4;50-08N;122-57W;;;658;;
+CWAF;71;426;Ile Rouge Meteorological Aeronautical Presentation System ;;Canada;4;48-05N;069-33W;;;5;;
+CWAG;71;806;La Scie, Nfld.;;Canada;4;49-55N;055-40W;;;192;194;P
+CWAH;71;410;Amherst, N. S.;;Canada;4;45-51N;064-16W;;;22;23;P
+CWAJ;71;465;Erieau Meteorological Aeronautical Presentation System ;;Canada;4;42-15N;081-54W;;;178;;
+CWAN;71;112;Amphitrite Point;;Canada;4;48-55N;125-33W;;;27;;
+CWAQ;71;516;Coronach Spc;;Canada;4;49-03N;105-29W;;;756;;
+CWAR;71;807;Argentia, Nfld;;Canada;4;47-18N;054-00W;47-17N;054-00W;16;16;P
+CWAS;71;211;Pam Rocks;;Canada;4;49-29N;123-18W;;;;;
+CWAU;--;---;Dryad Point Light House ;;Canada;4;52-11N;128-07W;;;4;;
+CWAV;71;248;Sundre;;Canada;4;51-46N;114-41W;;;1114;;
+CWAX;71;819;St. Anthony, Nfld.;;Canada;4;51-22N;055-38W;;;106;111;P
+CWBA;71;122;Banff, Alta.;;Canada;4;51-11N;115-34W;;;1397;1384;P
+CWBE;71;460;Killarney Meteorological Aeronautical Presentation System ;;Canada;4;45-58N;081-29W;;;196;;
+CWBF;--;---;Burgeo Automated Reporting Station ;;Canada;4;47-37N;057-38W;;;12;;
+CWBG;71;760;Big Creek ;;Canada;4;51-15N;123-05W;;;1670;;
+CWBI;71;632;Britt, Ont.;;Canada;4;45-48N;080-32W;;;190;;P
+CWBJ;71;162;Inner Whalebacks;;Canada;4;61-55N;113-44W;;;165;;
+CWBK;71;415;Caribou Point Meteorological Aeronautical Presentation System ;;Canada;4;45-46N;062-41W;;;2;;
+CWBL;71;143;Bachelors Island Automated Reporting Station ;;Canada;4;51-45N;099-54W;;;256;;
+CWBM;71;230;Beaverlodge;;Canada;4;55-12N;119-24W;;;745;;
+CWBO;71;457;Brooks Automatic Weather Reporting System ;;Canada;4;50-33N;111-51W;;;747;;
+CWBR;71;049;B, R;;Canada;4;66-02N;091-50W;;;31;;
+CWBT;71;512;Longue Point De Mingan, Que.;;Canada;4;50-16N;064-14W;;;11;;
+CWBV;71;403;Beaven Island, N. S.;;Canada;4;44-49N;062-20W;;;14;10;P
+CWBY;71;810;Port Menier, Que.;;Canada;4;49-50N;064-18W;;;53;53;P
+CWBZ;71;712;St Anicet;;Canada;4;45-07N;074-17W;45-07N;074-17W;49;49;
+CWCA;71;818;Cartwright, Nfld.;;Canada;4;53-42N;057-02W;;;14;14;P
+CWCB;--;---;Nanakwa Shoals;;Canada;4;53-49N;128-50W;;;0;;
+CWCD;71;513;Saskatoon Kernen;;Canada;4;52-09N;106-33W;;;510;;
+CWCF;71;158;Berens River CS , Man.;;Canada;4;52-21N;097-02W;;;222;;
+CWCH;71;748;Atikokan Automated Reporting Station ;;Canada;4;48-45N;091-37W;;;424;;
+CWCI;71;433;Caribou Island, Ont.;;Canada;4;47-20N;085-50W;;;187;;P
+CWCJ;71;750;Pukaskwa ;;Canada;4;48-36N;086-18W;;;206;;
+CWCL;71;474;Clinton, B. C.;;Canada;4;51-09N;121-30W;;;1057;1057;P
+CWCM;71;170;Carberry Mcdc;;Canada;4;49-54N;099-21W;;;384;;
+CWCN;--;---;Malloch Dome Automatic Weather Reporting System ;;Canada;4;78-13N;101-03W;;;12;;
+CWCO;71;270;Collingwood Automatic Weather Reporting System ;;Canada;4;44-30N;080-13W;;;180;;
+CWCQ;--;---;Chatham Automatic Weather Reporting System ;;Canada;4;47-00N;065-28W;;;34;;
+CWCS;--;---;Cote-Ste-Cath Mot;;Canada;4;45-25N;073-34W;;;17;;
+CWCT;--;---;Coronation Automated Reporting Station ;;Canada;4;52-04N;111-28W;;;791;;
+CWCU;71;436;Barrie, Ont.;;Canada;4;44-23N;079-47W;;;295;;P
+CWCV;--;---;Nootka Lightstation, B. C.;;Canada;4;49-36N;126-37W;;;16;;
+CWCX;71;056;Clut Lake Automated Reporting Station ;;Canada;4;66-00N;117-46W;;;185;;
+CWCZ;--;---;Addenbrooke Island Light, B. C.;;Canada;4;51-36N;127-52W;;;21;;
+CWDA;71;417;Englee Meteorological Aeronautical Presentation System ;;Canada;4;50-43N;056-07W;;;29;;
+CWDB;71;967;Burwash Automatic Weather Reporting System ;;Canada;4;61-22N;139-03W;;;806;;
+CWDC;71;076;Uranium City, Sask.;;Canada;4;59-34N;108-29W;;;318;318;P
+CWDD;--;---;Belle River, Ont.;;Canada;4;42-18N;082-42W;;;184;;
+CWDE;71;520;Lac Benoit;;Canada;4;51-33N;071-07W;;;549;;
+CWDF;71;283;Oliphant \ Ont;;Canada;4;44-44N;081-17W;;;182;;
+CWDH;71;185;Daniel's Harbour, Nfld;;Canada;4;50-14N;057-35W;;;18;19;P
+CWDI;71;400;Badger, Nfld;;Canada;4;48-58N;056-04W;;;105;;P
+CWDJ;71;514;Regina University;;Canada;4;50-24N;104-35W;;;573;;
+CWDK;71;234;Claresholm Automatic Weather Reporting System ;;Canada;4;50-01N;113-38W;;;1012;;
+CWDL;71;958;Dease Lake B. C.;;Canada;4;58-25N;130-00W;;;816;816;P
+CWDM;71;814;Chevery, Que.;;Canada;4;50-28N;059-38W;;;6;6;P
+CWDN;--;---;Wasaga Beach Automatic Weather Reporting System ;;Canada;4;44-31N;080-01W;;;182;;
+CWDO;71;402;Twillingate Meteorological Aeronautical Presentation System ;;Canada;4;49-41N;054-48W;;;92;;
+CWDP;71;521;Manouane-Est Automated Reporting Station ;;Canada;4;50-40N;070-32W;;;496;;
+CWDQ;71;378;La Tuque;;Canada;4;47-25N;072-48W;;;169;;
+CWDS;71;802;St. Lawrence, Nfld.;;Canada;4;46-55N;055-23W;;;46;49;P
+CWDT;71;522;Chute Des Passes;;Canada;4;49-54N;071-15W;;;399;;
+CWDU;71;235;Cop Upper;;Canada;4;51-05N;114-13W;;;1235;;
+CWDV;71;435;Upsala, Ont.;;Canada;4;49-02N;090-28W;;;489;489;P
+CWDZ;--;---;Drumheller East;;Canada;4;51-26N;112-40W;;;678;;
+CWEA;71;448;Pinawa Automatic Weather Reporting System ;;Canada;4;50-11N;096-04W;;;268;;
+CWEB;71;894;Estevan Point, B. C.;;Canada;4;49-23N;126-33W;;;7;;P
+CWEC;71;751;Welcome Island;;Canada;4;48-22N;089-07W;;;209;;
+CWEE;71;523;Chamouchouane Automatic Weather Reporting System;;Canada;4;49-17N;073-21W;;;305;;
+CWEF;71;418;Saint Paul Island Meteorological Aeronautical Presentation System ;;Canada;4;47-14N;060-08W;;;26;;
+CWEG;--;---;Alberta Weather Centre ;;Canada;4;53-30N;113-30W;;;;;
+CWEH;71;131;Eastend Cypress, Sask;;Canada;4;49-26N;108-59W;;;1078;;P
+CWEI;71;447;Melita, Man;;Canada;4;49-17N;100-59W;;;446;446;P
+CWEJ;--;---;Bow Drill Iii;;Canada;4;47-12N;055-06W;;;0;;
+CWEK;71;476;Grey Islet Meteorological Aeronautical Presentation System ;;Canada;4;54-35N;130-42W;;;8;;
+CWEL;71;772;Entrance Island Automatic Weather Reporting System ;;Canada;4;49-13N;123-48W;;;5;;
+CWEM;--;---;Egg Island Light;;Canada;4;51-15N;127-50W;;;14;;
+CWEO;71;421;Lac Eon, Que;;Canada;4;51-52N;063-17W;;;561;561;P
+CWEP;71;412;East Point, P. E. I;;Canada;4;46-27N;061-58W;;;11;13;P
+CWEQ;71;443;Swan River, Man.;;Canada;4;52-07N;101-14W;;;335;335;P
+CWER;71;424;Ile D'Orleans Automated Reporting Station ;;Canada;4;47-00N;070-49W;;;5;;
+CWES;71;111;Cape Scott Light;;Canada;4;50-47N;128-26W;;;70;;
+CWET;--;---;Egbert Meteorological Aeronautical Presentation System ;;Canada;4;44-14N;079-47W;;;251;;
+CWEU;71;917;Eureka, N. W. T.;;Canada;4;79-59N;085-56W;79-59N;085-56W;10;10;P
+CWEV;71;085;Ellice River Automated Reporting Station ;;Canada;4;67-42N;104-28W;;;42;;
+CWEW;71;524;L'Assomption;;Canada;4;45-49N;073-26W;45-49N;073-26W;21;21;
+CWEZ;71;473;Saturna Island Meteorological Aeronautical Presentation System ;;Canada;4;48-47N;123-03W;;;24;;
+CWFD;71;094;Cape Dyer, N. W. T.;;Canada;4;66-35N;061-37W;;;393;393;P
+CWFE;71;238;Elk Island National Park;;Canada;4;53-41N;112-52W;;;716;;
+CWFF;71;456;Melfort Automatic Weather Reporting System ;;Canada;4;52-49N;104-36W;;;490;;
+CWFG;71;478;Sartine Island Meteorological Aeronautical Presentation System ;;Canada;4;50-49N;128-54W;;;112;;
+CWFH;--;---;St. Shotts;;Canada;4;46-43N;053-29W;;;143;;
+CWFJ;71;153;Cardston Automated Reporting Station ;;Canada;4;49-12N;113-17W;;;1136;;
+CWFL;71;073;Fort Reliance ;;Canada;4;62-43N;109-10W;;;164;;
+CWFM;--;---;Chatham Point Lighthouse ;;Canada;4;50-20N;125-26W;;;23;;
+CWFN;71;920;Cree Lake Meteorological Aeronautical Presentation System ;;Canada;4;57-21N;107-08W;57-21N;107-08W;495;497;
+CWFP;--;---;Nain;;Canada;4;56-33N;061-42W;;;7;;
+CWFQ;71;373;Frelighsburg;;Canada;4;45-03N;072-50W;;;152;;
+CWFR;--;---;Horsefly River, B. C.;;Canada;4;52-17N;121-03W;;;846;;
+CWFU;--;---;Little Macatina;;Canada;4;52-14N;061-19W;;;321;;
+CWFW;71;829;Baie Comeau;;Canada;4;49-16N;068-09W;;;129;;
+CWFX;71;055;Colville Lake;;Canada;4;67-02N;126-05W;;;259;;
+CWFY;--;---;Conne River;;Canada;4;48-10N;055-29W;;;183;;
+CWFZ;71;160;Fort Reliance, N. W. T.;;Canada;4;62-43N;109-11W;;;168;;
+CWGB;71;769;Ballenas Island Automatic Weather Reporting System ;;Canada;4;49-21N;124-10W;;;5;;
+CWGD;71;261;Goderich Automatic Weather Reporting System ;;Canada;4;43-46N;081-43W;;;214;;
+CWGF;71;253;Garden River Automatic Weather Reporting System ;;Canada;4;58-41N;113-53W;;;241;;
+CWGH;71;281;Grenadier Island ;;Canada;4;44-25N;075-51W;;;82;;
+CWGJ;--;---;Montreal River Radar Site;;Canada;4;47-14N;084-31W;;;559;;
+CWGL;71;282;Lagoon City ;;Canada;4;44-32N;079-13W;;;221;;
+CWGM;71;154;Waterton Park Gate;;Canada;4;59-08N;113-48W;;;1296;;
+CWGN;71;441;Gretna, Man.;;Canada;4;49-02N;097-34W;;;251;253;P
+CWGP;71;777;Pemberton Automatic Weather Reporting System ;;Canada;4;50-18N;122-44W;;;204;;
+CWGQ;71;736;Roquemaure;;Canada;4;48-38N;079-27W;;;269;;
+CWGR;71;710;Iles-De-La-Madelein;;Canada;4;47-25N;061-48W;;;10;;
+CWGT;71;781;Sisters Island Automatic Weather Reporting System ;;Canada;4;49-29N;124-26W;;;5;;
+CWGU;71;857;Gypsumville;;Canada;4;51-40N;098-45W;;;265;;
+CWGV;--;---;Carp Radar Site;;Canada;4;45-19N;076-00W;;;;;
+CWGW;71;782;Sparwood Automatic Weather Reporting System ;;Canada;4;49-45N;114-54W;;;1137;;
+CWGX;--;---;Gillam, Man.;;Canada;4;56-22N;094-42W;;;145;;
+CWGY;71;240;Esther 1;;Canada;4;51-40N;110-12W;;;707;;
+CWGZ;--;---;Grise Fiord Airport;;Canada;4;76-25N;082-54W;;;45;;
+CWHA;71;241;Highvale;;Canada;4;53-27N;114-28W;;;747;;
+CWHC;71;201;Vancouver Automatic Weather Reporting System ;;Canada;4;49-18N;123-07W;;;2;;
+CWHE;71;239;Ellerslie;;Canada;4;53-25N;113-12W;;;694;;
+CWHH;71;142;Hunters Point Mar;;Canada;4;53-02N;100-56W;;;256;;
+CWHI;71;249;Three Hills;;Canada;4;51-42N;113-13W;;;907;;
+CWHL;71;440;Holland Rock Automatic Weather Reporting System ;;Canada;4;54-10N;130-22W;;;5;;
+CWHM;71;184;Varennes;;Canada;4;45-43N;073-23W;;;19;;
+CWHN;--;---;Jimmy Lake ;;Canada;4;54-55N;109-57W;54-55N;109-58W;658;625;
+CWHO;71;900;Hopedale Meteorological Aeronautical Presentation System ;;Canada;4;55-27N;060-14W;;;8;;
+CWHP;71;423;Heath Point Meteorological Aeronautical Presentation System ;;Canada;4;49-05N;061-42W;;;4;;
+CWHQ;71;389;Deschambaults , Que.;;Canada;4;46-41N;071-57W;;;55;;
+CWHS;71;062;Bernard Harbour;;Canada;4;68-47N;114-50W;;;65;;
+CWHT;71;505;Haines Junction;;Canada;4;60-46N;137-35W;;;599;;
+CWHU;--;---;Star Brook;;Canada;4;48-35N;057-14W;;;290;;
+CWHV;71;323;Beauceville;;Canada;4;46-12N;070-47W;;;229;;
+CWHW;71;193;Comfort Cove, Nfld.;;Canada;4;49-16N;054-53W;;;96;99;P
+CWHY;71;618;Mont-Orford;;Canada;4;45-19N;072-15W;;;851;;
+CWIA;--;---;Saint Henri , Que.;;Canada;4;48-39N;071-51W;;;103;;
+CWIC;71;074;Isachsen Meteorological Aeronautical Presentation System ;;Canada;4;78-47N;103-33W;;;58;;
+CWID;71;087;Fort Providence;;Canada;4;61-19N;117-36W;;;161;;
+CWIE;71;161;Indian River ;;Canada;4;64-23N;115-01W;;;478;;
+CWIF;--;---;Quatsino Light Station ;;Canada;4;50-26N;128-02W;;;21;;
+CWIG;--;---;Ile Aux Grues, Que.;;Canada;4;47-04N;070-32W;;;18;;
+CWII;71;552;Victoria Beach ;;Canada;4;50-42N;096-34W;;;220;;
+CWIJ;71;496;Lupin, N. W. T.;;Canada;4;65-46N;111-14W;;;500;500;P
+CWIK;71;861;Broadview, Sask.;;Canada;4;50-23N;102-41W;50-23N;102-35W;598;602;P
+CWIL;71;084;Hat Island, N. W. T.;;Canada;4;68-19N;100-05W;;;36;;
+CWIM;--;---;Upsala Radar Site ;;Canada;4;49-02N;090-25W;;;480;;
+CWIO;71;762;Iskut River ;;Canada;4;56-44N;131-40W;;;15;;
+CWIP;71;390;Pointe Noire , Que.;;Canada;4;50-10N;066-26W;;;25;;
+CWIQ;71;124;Primrose Lake ;;Canada;4;54-45N;110-03W;54-45N;110-03W;702;700;
+CWIR;--;---;Victoria Marine ;;Canada;4;48-22N;123-45W;;;32;;
+CWIS;71;319;Charlevoix CS , Que.;;Canada;4;47-17N;070-38W;;;719;;
+CWIT;71;614;Saint Clothilde Automated Reporting Station ;;Canada;4;45-10N;073-41W;;;52;;
+CWIU;--;---;Saint Gedeon, Que.;;Canada;4;48-29N;071-47W;;;103;;
+CWIW;71;511;Watrous East Automated Reporting Station ;;Canada;4;51-40N;105-24W;;;526;;
+CWIX;71;381;Mistook Automated Reporting Station ;;Canada;4;48-46N;071-43W;;;113;;
+CWIY;--;---;St Leonard Automatic Weather Reporting System;;Canada;4;47-09N;067-49W;;;49;;
+CWIZ;71;372;L'Acadie;;Canada;4;45-18N;073-21W;;;45;;
+CWJA;71;888;Jasper, Alta.;;Canada;4;52-53N;118-04W;;;1061;1061;P
+CWJB;71;392;Ste Foy CS , Que.;;Canada;4;47-18N;071-16W;;;91;;
+CWJC;71;923;Ennadai Lake Meteorological Aeronautical Presentation System ;;Canada;4;61-08N;100-54W;;;357;;
+CWJD;71;858;Grand Rapids, Man.;;Canada;4;53-11N;099-16W;;;223;223;P
+CWJG;--;---;Ivory Island Light;;Canada;4;52-16N;128-25W;;;10;;
+CWJH;71;451;Southend Automatic Weather Reporting System ;;Canada;4;56-20N;103-17W;;;344;;
+CWJI;71;487;Assiniboia Airport Automated Reporting Station;;Canada;4;49-44N;105-56W;;;724;;
+CWJM;71;290;Upper Rideau Lake;;Canada;4;44-42N;076-18W;;;125;;
+CWJN;71;501;Herschel Island Automatic Weather Reporting System ;;Canada;4;69-34N;138-55W;;;1;;
+CWJO;71;617;Jonquiere Automated Reporting Station ;;Canada;4;48-25N;071-13W;;;133;;
+CWJP;71;167;Porter Lake;;Canada;4;61-40N;108-25W;;;396;;
+CWJR;71;770;Creston Automatic Weather Reporting System ;;Canada;4;49-05N;116-30W;;;646;;
+CWJT;71;376;St Jovite Automatic Weather Reporting System ;;Canada;4;46-04N;074-32W;;;239;;
+CWJU;71;899;Langara, B. C.;;Canada;4;54-15N;133-03W;;;41;41;P
+CWJV;--;---;Vernon, B. C.;;Canada;4;50-14N;119-18W;;;556;;
+CWJW;71;486;Jasper Warden Automated Reporting Station ;;Canada;4;52-56N;118-19W;52-56N;118-19W;1020;1020;
+CWJX;71;459;Leader Airport Automatic Weather Reporting System ;;Canada;4;50-54N;109-30W;;;672;;
+CWJY;71;507;Yathkyed Lake Meteorological Aeronautical Presentation System ;;Canada;4;62-42N;098-18W;;;148;;
+CWJZ;71;499;Dubawnt Lake Meteorological Aeronautical Presentation System ;;Canada;4;63-14N;101-46W;;;237;;
+CWKD;71;383;Bonnard 1, Que.;;Canada;4;50-44N;071-01W;;;497;;
+CWKE;71;919;Pelly Bay;;Canada;4;68-26N;089-43W;;;326;;
+CWKG;71;599;Kejimkujik 1, N. S.;;Canada;4;44-26N;065-12W;;;127;;
+CWKH;71;774;Malahat Automatic Weather Reporting System ;;Canada;;48-35N;123-35W;;;366;;
+CWKI;--;---;Kitimat;;Canada;4;54-03N;128-41W;;;13;;
+CWKK;71;468;Katatota Island;;Canada;4;49-43N;088-20W;;;260;;
+CWKM;71;046;Komakuk Beach, Y. T.;;Canada;4;69-37N;140-12W;;;13;;
+CWKO;71;135;Rockglen, Sask.;;Canada;4;49-10N;105-59W;;;915;917;P
+CWKR;--;---;King Radar Site;;Canada;4;43-58N;079-34W;;;390;;
+CWKS;--;---;Sikanni Chief, B. C.;;Canada;4;57-15N;122-43W;;;937;;
+CWKU;--;---;Whiskey Automated Reporting Station ;;Canada;4;81-02N;076-57W;;;829;;
+CWKV;--;---;Hope Slide;;Canada;4;49-17N;121-14W;;;674;;
+CWKW;71;176;Cape Kakkiviak;;Canada;4;59-59N;064-10W;;;551;;
+CWKX;71;222;Dease Lake Coastal Station;;Canada;4;58-25N;130-00W;;;816;;
+CWLA;71;899;Langara, B. C.;;Canada;4;54-15N;133-08W;;;41;;
+CWLB;71;931;Lac La Biche, Alta.;;Canada;4;54-46N;112-01W;;;565;567;P
+CWLC;--;---;Lucy Island, B. C.;;Canada;4;54-18N;130-36W;;;27;;
+CWLE;71;455;Lucky Lake Automatic Weather Reporting System ;;Canada;4;50-57N;107-09W;;;665;;
+CWLF;71;846;Lansdowne House ;;Canada;4;52-14N;087-53W;;;242;;
+CWLG;71;164;Little Chicago;;Canada;4;67-12N;130-13W;;;63;;
+CWLI;71;960;Liverpool Bay;;Canada;4;69-36N;130-54W;;;102;;
+CWLM;71;200;Victoria Automatic Weather Reporting System ;;Canada;4;48-25N;123-19W;;;70;;
+CWLO;71;853;Shilo;;Canada;4;49-47N;099-38W;49-47N;099-38W;373;373;
+CWLP;71;485;Herbert Island Meteorological Aeronautical Presentation System ;;Canada;4;50-56N;127-38W;;;17;;
+CWLQ;71;271;Nipissing;;Canada;4;46-19N;079-28W;;;204;;
+CWLS;71;631;Mount Forest, Ont.;;Canada;4;43-59N;080-45W;;;415;;P
+CWLT;71;082;Alert, N. W. T.;;Canada;4;82-30N;062-20W;82-30N;062-20W;63;66;P
+CWLU;--;---;Lauzon, Que.;;Canada;4;46-50N;071-10W;;;20;;
+CWLV;71;454;Waskesiu Lake Automated Reporting Station ;;Canada;4;53-55N;106-04W;;;569;;
+CWLX;71;091;Longstaff Bluff, N. W. T.;;Canada;4;68-53N;075-08W;;;162;161;P
+CWLY;71;891;Lytton, B. C.;;Canada;4;50-14N;121-35W;;;229;229;P
+CWLZ;71;146;Candle Lake;;Canada;4;53-44N;105-16W;53-44N;105-16W;503;503;
+CWMA;--;---;Masset A;;Canada;4;54-01N;132-07W;;;5;;
+CWMD;--;---;Mould Bay Camp;;Canada;4;76-14N;119-19W;;;12;;
+CWME;71;482;Cathedral Point Meteorological Aeronautical Presentation System ;;Canada;4;52-11N;127-28W;;;32;;
+CWMH;71;817;Mary's Harbour, Nfld.;;Canada;4;52-18N;055-50W;;;10;11;P
+CWMI;71;719;Miscou Island, N. B.;;Canada;4;48-01N;064-30W;;;3;4;P
+CWMJ;71;721;Maniwaki;;Canada;4;46-17N;076-00W;;;200;;
+CWMM;71;775;P. Meadows Coastal Station Automatic Weather Reporting System;;Canada;;49-12N;122-41W;;;5;;
+CWMN;71;626;Mcgill Radar Site;;Canada;4;45-25N;073-56W;;;63;;
+CWMP;71;168;Powder Lake;;Canada;4;61-03N;109-20W;;;396;;
+CWMQ;71;453;Maplecreek Automatic Weather Reporting System ;;Canada;4;49-54N;109-28W;;;767;;
+CWMR;--;---;Merry Island ;;Canada;4;49-28N;123-55W;;;8;;
+CWMS;71;897;Mcinnes Island, B. C.;;Canada;4;52-16N;128-43W;;;25;26;P
+CWMT;71;163;Lac La Martre;;Canada;4;63-09N;117-16W;;;271;;
+CWMU;71;981;Rampart River Automatic Weather Reporting System ;;Canada;4;65-57N;130-28W;;;155;;
+CWMV;71;986;St Charles Creek;;Canada;4;64-45N;124-13W;;;341;;
+CWMW;71;722;Maniwaki, Que.;;Canada;4;46-23N;075-58W;46-22N;075-59W;170;173;P
+CWMX;71;255;Mildred Lake;;Canada;4;57-32N;111-34W;;;310;;
+CWMZ;71;438;Western Island Meteorological Aeronautical Presentation System ;;Canada;4;45-02N;080-22W;;;191;;
+CWNB;71;466;S. E. Shoal Meteorological Aeronautical Presentation System ;;Canada;4;41-50N;082-28W;;;195;;
+CWNC;71;431;Cobourg, Ont.;;Canada;4;43-57N;078-10W;;;78;78;P
+CWND;71;502;Pelly Island Automatic Weather Reporting System ;;Canada;4;69-38N;135-26W;;;12;;
+CWNE;--;---;North Point, Prince Edward Island;;Canada;4;47-05N;064-00W;;;15;;
+CWNH;71;715;Riviere Du Loup, Que.;;Canada;4;47-48N;069-33W;;;148;148;P
+CWNI;--;---;Nipterk Base;;Canada;4;69-37N;135-20W;;;10;;
+CWNJ;--;---;Green Island Light Station - Heliport, B. C.;;Canada;4;54-34N;130-42W;;;12;;
+CWNK;71;147;Carman U Of M;;Canada;4;49-30N;098-02W;;;268;;
+CWNL;71;462;Great Duck Island;;Canada;4;45-38N;082-58W;;;183;;
+CWNM;71;776;Nelson Automatic Weather Reporting System ;;Canada;4;49-30N;117-18W;;;535;;
+CWNO;71;976;Satah River Automatic Weather Reporting System;;Canada;4;66-52N;134-12W;;;86;;
+CWNP;71;216;Nakusp Automatic Weather Reporting System ;;Canada;;50-16N;117-49W;;;524;;
+CWNQ;71;723;Nicolet Automatic Weather Reporting System ;;Canada;4;46-13N;072-39W;;;10;;
+CWNR;71;245;Nakiska Ridgetop ;;Canada;4;50-57N;115-11W;;;2543;;
+CWNT;71;250;Turtle Mountain;;Canada;4;49-35N;114-25W;;;2164;;
+CWNW;71;982;Haldane River Automatic Weather Reporting System;;Canada;4;67-04N;121-06W;;;186;;
+CWNX;71;763;Nechako River ;;Canada;4;53-41N;124-50W;;;715;;
+CWNZ;71;832;Nagagami, Ont.;;Canada;4;49-45N;084-10W;;;259;263;P
+CWOA;71;060;Camsell River, N. W. T.;;Canada;4;65-37N;118-07W;;;230;;P
+CWOB;71;097;Brevoort Island;;Canada;4;63-20N;064-09W;;;367;;
+CWOC;71;619;New Carlisle1;;Canada;4;48-01N;065-20W;;;47;;
+CWOD;71;379;Normandin;;Canada;4;48-50N;072-33W;;;137;;
+CWOE;71;116;Onefour Automatic Weather Reporting System ;;Canada;4;49-07N;110-28W;;;935;;
+CWOH;71;720;Ste Agathe Des Mont;;Canada;4;46-03N;074-17W;;;395;;
+CWOI;71;978;Ivvavik Park Automatic Weather Reporting System;;Canada;4;69-09N;140-09W;;;244;;
+CWOK;71;450;Elbow Marine Aviation Reporting Station ;;Canada;4;51-08N;106-35W;;;595;;
+CWOL;--;---;Sable Island Man ;;Canada;4;43-55N;059-55W;;;4;;
+CWON;--;---;Dawson Automatic Weather Reporting System ;;Canada;4;64-03N;139-09W;;;370;;
+CWOU;71;127;Primrose Lake 2;;Canada;4;54-47N;110-04W;54-47N;110-04W;606;606;
+CWOY;--;---;Wynyard Marine Aviation Reporting Station ;;Canada;4;51-46N;104-13W;;;561;;
+CWPA;71;979;Henderickson Automatic Weather Reporting System;;Canada;4;53-47N;118-26W;;;1542;;
+CWPB;71;272;Beausoleil Island Automated Reporting Station ;;Canada;4;44-51N;079-52W;;;183;;
+CWPC;71;463;Port Colborne Automated Reporting Station ;;Canada;4;42-52N;079-15W;;;184;;
+CWPD;71;382;Parc Des Laurentid;;Canada;4;47-34N;071-14W;;;803;;
+CWPE;--;---;Point Lepreau, N. B.;;Canada;4;45-04N;066-28W;;;1;;
+CWPF;71;798;Esquimalt Harbour, B. C.;;Canada;4;48-26N;123-26W;;;3;;
+CWPH;71;907;Inukjuak, Que;;Canada;4;58-27N;078-07W;58-27N;078-07W;3;6;P
+CWPI;71;105;Pine Island Meteorological Aeronautical Presentation System ;;Canada;4;50-59N;127-44W;;;9;;
+CWPJ;71;414;Point Escuminac Meteorological Aeronautical Presentation System ;;Canada;4;47-04N;064-48W;;;5;;
+CWPK;71;726;Parent, Que.;;Canada;4;47-55N;074-37W;;;442;441;P
+CWPL;71;845;Pickle Lake, Ont.;;Canada;4;51-27N;090-12W;51-27N;090-12W;389;386;P
+CWPO;71;148;Pilot Mound, Man.;;Canada;4;49-12N;098-54W;;;470;470;P
+CWPQ;71;675;Montreal-Est;;Canada;4;45-38N;070-33W;;;51;;
+CWPR;71;032;Princeton Automatic Weather Reporting System ;;Canada;4;50-36N;120-31W;;;700;;
+CWPS;71;464;Long Point Meteorological Aeronautical Presentation System ;;Canada;4;42-34N;080-03W;;;175;;
+CWPU;71;050;Puntzi Mountain, B. C.;;Canada;4;52-07N;124-08W;;;910;910;P
+CWPX;--;---;Cape Peel West, N. W. T.;;Canada;4;69-02N;107-49W;;;165;;
+CWPY;--;---;Fort Chipewyan Automated Reporting Station ;;Canada;4;58-46N;111-08W;;;232;;
+CWPZ;71;952;Burns Lake CS , B. C.;;Canada;4;54-23N;125-57W;;;713;;
+CWQC;71;475;Port Alberni, B. C.;;Canada;4;49-15N;124-50W;;;2;2;P
+CWQE;71;284;Toronto Headland;;Canada;4;43-37N;079-21W;;;87;;
+CWQF;71;980;Rabbit Kettle Automated Reporting Station;;Canada;4;61-58N;127-13W;;;634;;
+CWQG;71;151;Valcartier;;Canada;4;46-54N;071-30W;;;168;;
+CWQH;71;611;Lennoxville;;Canada;4;45-22N;071-49W;;;181;;
+CWQJ;--;---;Sedco 710;;Canada;4;46-30N;048-30W;;;0;;
+CWQK;71;778;Race Rocks Automatic Weather Reporting System ;;Canada;4;48-18N;123-32W;;;5;;
+CWQL;71;243;Lethbridge Automated Reporting Station ;;Canada;4;49-42N;112-47W;;;921;;
+CWQM;71;186;Cap Rouge;;Canada;4;48-23N;070-32W;;;7;;
+CWQO;71;385;Ile Bicquette, Que.;;Canada;4;48-24-56N;068-53-36W;;;7;;
+CWQP;71;430;Point Petre , Ont.;;Canada;4;43-50N;077-09W;;;79;79;P
+CWQQ;71;242;Lacombe Cda;;Canada;4;52-27N;113-45W;;;874;;
+CWQR;71;375;Ile Aux Perroquets, Que.;;Canada;4;50-13-25N;064-12-30W;;;9;;
+CWQS;71;472;Kindakun Rocks, B. C.;;Canada;4;53-19N;132-45W;;;14;14;P
+CWQV;71;189;Puinte Claveau;;Canada;4;48-16N;070-07W;;;0;;
+CWQW;71;374;Cape Whittle;;Canada;4;50-10N;060-04W;;;7;;
+CWQY;71;963;Hanbury River Automated Reporting Station ;;Canada;4;63-35N;105-09W;;;317;;
+CWQZ;--;---;Quesnel Automatic Weather Reporting System ;;Canada;4;53-02N;122-32W;;;545;;
+CWRA;71;800;Cape Race, Nfld;;Canada;4;46-39N;053-04W;;;27;28;P
+CWRD;71;246;Red Earth;;Canada;4;56-32N;115-16W;;;546;;
+CWRF;71;918;Pelly Bay 1;;Canada;4;69-26N;089-44W;;;325;;
+CWRH;71;972;Resolution Island, N. W. T.;;Canada;4;61-35N;64-39W;;;369;;
+CWRJ;71;510;Rosetown East, Sask;;Canada;4;51-34N;107-55W;;;586;;P
+CWRK;--;---;Bancroft Automatic Weather Reporting System;;Canada;4;45-04N;077-52W;;;331;;
+CWRM;--;---;Rocky House Marine Aviation Reporting Station ;;Canada;4;52-26N;114-56W;;;988;;
+CWRN;71;419;Hart Island Meteorological Aeronautical Presentation System ;;Canada;4;45-21N;060-59W;;;4;;
+CWRO;71;477;Rose Spit Meteorological Aeronautical Presentation System ;;Canada;4;54-10N;131-40W;;;7;;
+CWRP;71;956;Nicholson Peninsul ;;Canada;4;69-56N;128-58W;;;89;;
+CWRQ;--;---;Trois Rivieres;;Canada;4;46-23N;072-37W;;;11;;
+CWRT;71;236;Crowsnest;;Canada;4;49-38N;114-29W;;;1303;;
+CWRU;71;479;Solander Island Meteorological Aeronautical Presentation System ;;Canada;4;50-07N;127-56W;;;99;;
+CWRV;71;254;Camrose;;Canada;4;53-02N;112-49W;;;739;;
+CWRW;71;416;Fourchu Head Meteorological Aeronautical Presentation System ;;Canada;4;45-43N;060-14W;;;10;;
+CWRX;--;---;Rowley Island, N. W. T.;;Canada;4;69-04N;079-04W;;;41;;
+CWRY;71;244;Milk River;;Canada;4;49-08N;112-03W;;;1050;;
+CWRZ;71;429;Cap D'Espoir , Que.;;Canada;4;48-25N;064-19W;;;16;;
+CWSA;71;600;Sable Island, N. S.;;Canada;4;43-56N;060-01W;43-56N;060-01W;4;4;P
+CWSD;--;---;Summerside Automatic Weather Reporting System ;;Canada;4;46-26N;063-51W;;;24;;
+CWSE;71;119;Edmonton Stony Plain Alta.;;Canada;4;53-32N;114-06W;53-33N;114-06W;766;766;P
+CWSF;71;425;Cap Madeleine Meteorological Aeronautical Presentation System ;;Canada;4;49-15N;065-20W;;;29;;
+CWSG;71;428;Cap Chat CS, Que.;;Canada;4;49-07N;066-39W;;;5;;
+CWSH;71;247;Sousa Crk Avt ;;Canada;4;58-35N;118-30W;;;373;;
+CWSI;71;527;Simcoe, Ont.;;Canada;4;42-51N;080-16W;;;241;;P
+CWSK;71;207;Squamish Airport, B. C;;Canada;4;49-47N;123-10W;;;59;52;P
+CWSL;71;218;Salmon Arm Automatic Weather Reporting System ;;Canada;;50-42N;119-17W;;;351;;
+CWSO;--;---;Exeter Radar Site;;Canada;4;43-22N;081-23W;;;;;
+CWSP;71;780;Sheringham Automatic Weather Reporting System ;;Canada;4;48-23N;123-55W;;;21;;
+CWSQ;71;974;Aulvik National Park;;Canada;4;74-08N;119-59W;;;32;;
+CWSR;71;133;Spiritwood West, Sask;;Canada;4;53-22N;107-33W;;;584;590;P
+CWSS;71;607;St. Stephen, N. B.;;Canada;4;45-13N;067-15W;;;26;;P
+CWST;71;713;La Pocatiere;;Canada;4;47-21N;070-02W;;;31;;
+CWSV;--;---;Blue River Marine Aviation Reporting Station ;;Canada;4;52-06N;119-18W;;;683;;
+CWSW;--;---;Sparwood / Elk Valley;;Canada;4;49-45N;114-53W;;;1138;;
+CWSY;71;051;Sachs Harbour, N. W. T.;;Canada;4;72-00N;125-16W;72-00N;125-16W;88;88;P
+CWSZ;71;442;Fisher Branch Marine Aviation Reporting Station ;;Canada;4;51-05N;097-33W;;;253;;
+CWTA;71;612;Mc Tavish Automated Reporting Station ;;Canada;4;45-30N;073-35W;;;63;;
+CWTB;71;901;Border, Que.;;Canada;4;55-20N;063-13W;;;479;479;P
+CWTC;71;102;Ethelda Bay;;Canada;4;53-03N;129-41W;;;10;;
+CWTD;71;490;Robertson Lake Automated Reporting Station ;;Canada;4;65-06N;102-26W;;;244;;
+CWTE;71;166;Trout Lake;;Canada;4;60-26N;121-14W;;;498;;
+CWTF;71;134;Beartooth Island;;Canada;4;59-13N;109-42W;;;238;;
+CWTG;71;427;Pointe-Des-Monts , Que.;;Canada;4;49-19N;067-23W;;;5;;
+CWTH;--;---;Tetsa River;;Canada;4;58-39N;124-14W;;;804;;
+CWTI;--;---;Triple Island Light, B. C.;;Canada;4;54-18N;130-53W;;;21;;
+CWTN;71;384;Cap Tourmente;;Canada;4;47-04N;070-48W;;;6;;
+CWTO;71;638;Toronto Aes Hq ;;Canada;4;43-47N;079-28W;43-47N;079-28W;187;187;
+CWTU;--;---;Tukialik Bay, Nfld.;;Canada;4;54-43N;058-21W;;;683;;
+CWTY;71;724;Trois Rivieres;;Canada;4;46-21N;072-31W;;;6;;
+CWTZ;--;---;Toronto Island;;Canada;4;43-38N;079-25W;;;77;;
+CWUL;--;---;Quebec Fcst Office;;Canada;4;45-30N;073-41W;;;;;
+CWUM;71;949;Faro, Y. T.;;Canada;4;62-14N;133-21W;;;717;717;P
+CWUP;71;093;Cape Hooper, N. W. T.;;Canada;4;68-28N;066-48W;;;401;390;P
+CWUR;71;398;Truro, N. S.;;Canada;4;45-22N;063-16W;;;40;;P
+CWUS;71;768;Summerland Automatic Weather Reporting System ;;Canada;4;49-34N;119-39W;;;454;;
+CWUT;71;150;Shoal Lake Airport Automated Reporting Station ;;Canada;4;50-27N;100-36W;;;561;;
+CWUU;71;080;Mackar Inlet;;Canada;4;68-18N;085-40W;;;395;;
+CWUW;71;092;Dewar Lakes, N. W. T.;;Canada;4;68-39N;071-10W;;;518;527;P
+CWUX;71;388;La Baie , Que.;;Canada;4;48-18N;70-56W;;;135;;
+CWUY;71;734;Rouyn;;Canada;4;48-15N;079-02W;;;318;;
+CWVA;71;196;Bonavista, Nfld.;;Canada;4;48-40N;053-07W;;;25;27;P
+CWVB;71;484;Bonilla Island Light;;Canada;4;53-30N;130-38W;;;16;;
+CWVC;71;446;Swift Current Automatic Weather Reporting System ;;Canada;4;50-16N;107-44W;;;825;;
+CWVD;71;096;Broughton Island;;Canada;4;67-32N;063-47W;;;584;;
+CWVE;--;---;Valleyfield;;Canada;4;45-14N;074-06W;;;46;;
+CWVF;--;---;Sand Heads CS, B. C.;;Canada;4;49-06N;123-18W;;;13;;
+CWVH;71;052;Storm Hills , N. W. T.;;Canada;4;68-54N;133-56W;;;261;;
+CWVI;71;458;Vegreville Automatic Weather Reporting System ;;Canada;4;53-37N;112-02W;;;639;;
+CWVK;71;115;Vernon, B. C.;;Canada;4;50-14N;119-17W;;;555;556;P
+CWVN;71;137;Val Marie Southeast, Sask;;Canada;4;49-04N;107-35W;;;785;785;P
+CWVO;71;251;Vauxhall Cda;;Canada;4;50-03N;112-08W;;;779;;
+CWVP;71;139;Cypress Hills Park;;Canada;4;49-39N;109-31W;;;1271;;
+CWVQ;71;377;Ste Anne De Bell 1;;Canada;4;45-26N;073-56W;;;39;;
+CWVT;71;077;Buffalo Narrows, Sask.;;Canada;4;55-50N;108-26W;;;434;434;P
+CWVU;71;988;Brier Island, N. S.;;Canada;4;44-17-09N;066-20-48W;;;16;;
+CWVV;--;---;Vic. Hartland Automatic Weather Reporting System;;Canada;4;48-32N;123-28W;;;154;;
+CWVY;71;616;Villeroy Radar Site;;Canada;4;46-26N;071-56W;;;108;;
+CWVZ;--;---;Ile Charron, Que.;;Canada;4;45-35N;073-30W;;;12;;
+CWWA;71;784;W Vancouver Automatic Weather Reporting System ;;Canada;4;49-21N;123-11W;;;178;;
+CWWB;71;437;Burlington Piers ;;Canada;4;43-18N;079-48W;;;77;;
+CWWC;71;075;Collins Bay Automatic Weather Reporting System ;;Canada;4;58-11N;103-42W;;;492;;
+CWWE;71;411;Western Head, N. S.;;Canada;4;43-59N;064-40W;;;9;;P
+CWWF;71;452;Weyburn Automatic Weather Reporting System ;;Canada;4;49-42N;103-48W;;;589;;
+CWWK;71;785;White Rock Automatic Weather Reporting System ;;Canada;4;49-01N;122-47W;;;15;;
+CWWL;71;484;Bonilla Island Meteorological Aeronautical Presentation System ;;Canada;4;53-30N;130-38W;;;17;;
+CWWM;--;---;Grant Automatic Weather Reporting System ;;Canada;4;82-30N;065-05W;;;1242;;
+CWWN;71;434;Peawanuck Meteorological Aeronautical Presentation System ;;Canada;4;54-59N;085-26W;;;52;;
+CWWO;71;252;Willow Creek;;Canada;4;53-23N;118-20W;;;1402;;
+CWWP;71;444;Wasagaming, Man.;;Canada;4;50-39N;099-56W;;;626;627;P
+CWWQ;71;945;Muncho Lake;;Canada;4;58-55N;125-46W;;;835;;
+CWWS;71;445;George Island Meteorological Aeronautical Presentation System ;;Canada;4;52-48N;097-37W;;;223;;
+CWWU;--;---;Ingenika Point;;Canada;4;56-48N;124-54W;;;680;;
+CWWV;71;098;Killinek Meteorological Aeronautical Presentation System ;;Canada;4;60-25N;064-51W;;;31;;
+CWWX;71;439;Cove Island Meteorological Aeronautical Presentation System ;;Canada;4;45-20N;081-44W;;;181;;
+CWWZ;71;432;Port Weller, Ont.;;Canada;4;43-15N;079-13W;;;79;;P
+CWXA;71;232;Bow Valley;;Canada;4;51-05N;115-04W;;;1298;;
+CWXC;71;387;Onatchiway, Que.;;Canada;4;48-53N;071-02W;;;304;;
+CWXH;71;562;Holberg, B. C.;;Canada;4;50-38N;128-07W;;;568;;
+CWXI;--;---;Ferolle Point Meteorological Aeronautical Presentation System ;;Canada;4;51-01N;057-06W;;;8;;
+CWXJ;--;---;Bull Arm Automatic Weather Reporting System;;Canada;4;47-49N;053-54W;;;119;;
+CWXL;71;231;Bow Island;;Canada;4;49-38N;111-27W;;;838;;
+CWXM;71;481;Helmcken Island Meteorological Aeronautical Presentation System ;;Canada;4;50-24N;125-52W;;;19;;
+CWXO;--;---;Rowan Gorilla Iii;;Canada;4;43-53N;060-33W;;;44;;
+CWXP;71;826;Pangnirtung;;Canada;4;66-09N;065-44W;;;23;;
+CWXR;--;---;Croker River, N. W. T.;;Canada;4;69-16N;119-13W;;;69;;
+CWXV;71;498;Back River Meteorological Aeronautical Presentation System ;;Canada;4;66-05N;096-30W;;;28;;
+CWXW;71;183;Alexis River Meteorological Aeronautical Presentation System ;;Canada;4;52-39N;056-52W;;;43;;
+CWYB;--;---;N. Bay Weather Office;;Canada;4;46-19N;079-27W;;;;;
+CWYE;71;551;Outlook Pfra;;Canada;4;51-29N;107-03W;;;541;;
+CWYG;--;---;Charlottetown;;Canada;4;46-14N;063-08W;;;50;;
+CWYH;71;165;Rae Lakes;;Canada;4;64-07N;117-22W;;;231;;
+CWYJ;71;783;Victoria University;;Canada;;48-27N;123-18W;;;60;;
+CWYK;71;177;Cape Kiglapait, Nfld.;;Canada;4;57-08N;061-29W;;;834;;
+CWYL;71;786;Yoho Park Automatic Weather Reporting System ;;Canada;;51-27N;116-20W;;;1615;;
+CWYM;71;975;Cape Mercy;;Canada;4;64-57N;063-35W;;;583;;
+CWYO;71;865;Wynyard, Sask.;;Canada;4;51-46N;104-12W;;;561;561;P
+CWYY;71;215;Osoyoos Automatic Weather Reporting System ;;Canada;;49-02N;119-26W;;;283;;
+CWZA;71;113;Agassiz Automated Reporting Station ;;Canada;;49-15N;121-46W;;;15;;
+CWZB;71;197;Port-Aux-Basques, Nfld.;;Canada;4;47-34N;059-10W;47-34N;059-10W;40;40;P
+CWZD;--;---;Scudder Point Meteorological Aeronautical Presentation System ;;Canada;4;52-27N;131-14W;;;5;;
+CWZG;--;---;Banff Marine Aviation Reporting Station ;;Canada;4;51-12N;115-33W;;;1397;;
+CWZL;--;---;Cumshewa Island Meteorological Aeronautical Presentation System ;;Canada;4;53-02N;131-36W;;;17;;
+CWZM;--;---;Boat Bluff Light;;Canada;4;52-39N;128-31W;;;11;;
+CWZN;71;408;Sagona Island Meteorological Aeronautical Presentation System ;;Canada;4;47-22N;055-48W;;;35;;
+CWZO;--;---;Kelp Reefs, B. C.;;Canada;4;48-33N;123-14W;;;0;;
+CWZQ;71;597;Grand Etang, N. S.;;Canada;4;46-33N;061-03W;;;13;;
+CWZS;71;386;Amqui , Que.;;Canada;4;48-28N;067-26W;;;166;;
+CWZT;71;550;Dauphin Coastal Station;;Canada;4;51-06N;100-03W;;;305;;
+CWZV;71;048;Virginia Falls;;Canada;4;61-38N;125-48W;;;610;;
+CWZW;--;---;Teslin Marine Aviation Reporting Station ;;Canada;4;60-10N;132-46W;;;705;;
+CWZZ;71;804;Saglek Bay ;;Canada;4;58-20N;062-35W;;;483;;
+CXBK;71;569;Bratts Lake, Sask.;;Canada;4;50-12N;104-42W;;;580;;
+CXBO;71;578;Beauport CS, Que.;;Canada;4;46-50N;071-12W;;;10;;
+CXBP;--;---;Confederation Bridge, Prince Edward Island ;;Canada;4;46-14N;063-44W;;;54;;
+CXCH;--;---;Cheticamp, N. S.;;Canada;4;46-39N;060-57W;;;44;;
+CXCK;71;039;Carmacks CS, Y. T.;;Canada;4;62-07N;136-11W;;;632;;
+CXDE;71;503;Deline , N. W. T.;;Canada;4;65-13N;123-26W;;;213;;
+CXDI;71;573;Delhi CS, Ont.;;Canada;4;42-52N;080-33W;;;232;;
+CXDW;71;840;Deerwood RCS , Man.;;Canada;4;49-24N;098-19W;;;341;;
+CXEC;71;157;Edmonton Municipal CR10 , Alta.;;Canada;4;53-34N;113-31W;;;671;;
+CXEG;71;155;Edmonton International CS , Alta.;;Canada;4;53-18N;113-36W;;;715;;
+CXGH;71;577;Gimli Harbour CS, Man.;;Canada;4;50-37-52N;096-58-56W;;;217;;
+CXHF;71;391;High Falls , Que.;;Canada;4;45-50N;075-39W;;;190;;
+CXKT;71;605;Kentville , N. S.;;Canada;4;45-04N;064-29W;;;49;;
+CXLC;71;680;Lower Carp Lake , N. W. T.;;Canada;4;63-36N;113-52W;;;373;;
+CXLL;71;682;Lindberg Landing , N. W. T.;;Canada;4;61-07N;122-51W;;;183;;
+CXMD;71;564;Morden CDA CS , Man.;;Canada;4;49-11N;098-05W;;;298;;
+CXMI;--;---;McNabs Island , N. S.;;Canada;4;44-36N;063-32W;;;15;;
+CXMM;71;585;Fort McMurray CS, Alta.;;Canada;4;56-39N;111-13W;;;369;;
+CXMY;--;---;Malay Falls , N. S.;;Canada;4;44-59N;062-29W;;;40;;
+CXNM;71;604;North Mountain , N. S.;;Canada;4;46-49N;060-40W;;;439;;
+CXOX;71;586;La Ronge , Sask.;;Canada;4;55-09N;105-16W;;;378;;
+CXPV;71;593;Prairie River, Alta;;Canada;4;58-37-20N;111-40-21W;;;212;;
+CXQA;71;583;Qavvik Lake, N. W. T.;;Canada;4;68-15-28N;122-06-13W;;;530;;
+CXRH;71;588;Rocky Harbour CS, Nfld.;;Canada;4;49-34N;057-53W;;;68;;
+CXSH;71;370;Shawinigan CS , Que.;;Canada;4;46-35N;072-35W;;;110;;
+CXSR;71;571;Spirit River Auto Station, Alta;;Canada;4;55-41-43N;119-14-03W;;;1015;;
+CXSW;71;587;St. John's West CDA CS, Nfld.;;Canada;4;47-30-56N;052-47-05W;;;114;;
+CXTN;71;492;Tuktut Nogait , N. W. T.;;Canada;4;69-11N;122-21W;;;552;;
+CXTP;71;589;Terra Nova National Park CS, Nfld.;;Canada;4;48-33-25N;053-58-28W;;;107;;
+CXTV;71;683;Trail Valley , N. W. T.;;Canada;4;68-45N;133-30W;;;85;;
+CXWN;71;579;Winnipeg The Forks, Man.;;Canada;4;49-53N;097-08W;;;230;;
+CXXX;71;073;Cluff Lake , Sask.;;Canada;4;58-23N;109-30W;;;339;;
+CXZU;71;256;Whitecourt , Alta.;;Canada;4;54-09N;115-47W;;;785;;
+CYAD;--;---;La Grande Iii Supplementary Aviation Weather Reporting Station ;;Canada;4;53-34N;076-12W;;;233;;
+CYAH;71;823;La Grande Iv, Que.;;Canada;4;53-45N;073-40W;53-45N;073-40W;306;307;P
+CYAJ;71;969;Komakuk Beach Airport;;Canada;4;69-35N;140-11W;;;7;;
+CYAM;71;260;Sault Ste Marie, Ont.;;Canada;4;46-29N;084-30W;;;187;192;P
+CYAS;--;---;Kangirsuk Supplementary Aviation Weather Reporting Station ;;Canada;4;60-01N;070-00W;;;117;;
+CYAW;71;601;Shearwater, N. S.;;Canada;4;44-38N;063-30W;44-38N;063-30W;51;51;P
+CYAY;--;---;Saint Anthony Airport;;Canada;4;51-24N;056-05W;;;28;;
+CYAZ;71;106;Tofino Airport;;Canada;4;49-05N;125-46W;;;24;;
+CYBB;--;---;Pelly Bay Airport;;Canada;4;68-32N;089-49W;;;15;;
+CYBC;71;187;Baie Comeau, Que.;;Canada;4;49-08N;068-12W;;;21;22;P
+CYBD;71;206;Bella Coola Airport ;;Canada;4;52-23N;126-35W;;;35;;
+CYBG;71;727;Bagotville, Que.;;Canada;4;48-20N;071-00W;48-20N;071-00W;159;159;P
+CYBK;71;926;Baker Lake, N. W. T.;;Canada;4;64-18N;096-05W;64-18N;096-00W;18;18;P
+CYBL;--;---;Campbell River Airport;;Canada;4;49-57N;125-16W;;;106;;
+CYBN;--;---;Borden, Ont.;;Canada;4;44-15N;079-55W;;;223;;
+CYBR;71;140;Brandon, Man.;;Canada;4;49-55N;099-57W;;;409;409;P
+CYBU;71;130;Nipawin, Sask.;;Canada;4;53-20N;104-00W;;;372;372;P
+CYBV;71;859;Berens River Airport;;Canada;4;52-21N;097-02W;;;222;;
+CYBW;--;---;Calgary / Springbank;;Canada;4;51-06N;114-22W;;;1200;;
+CYBX;71;808;Blanc Sablon, Que.;;Canada;4;51-27N;057-11W;;;30;36;P
+CYCA;--;---;Cartwright Man ;;Canada;4;53-41N;057-02W;;;12;;
+CYCB;71;925;Cambridge Bay, N. W. T.;;Canada;4;69-06N;105-07W;69-08N;105-04W;23;27;P
+CYCD;71;890;Nanaimo Airport;;Canada;4;49-03N;123-52W;;;28;;
+CYCG;71;884;Castlegar Airport;;Canada;4;49-18N;117-38W;49-18N;117-38W;495;495;
+CYCH;71;717;Chatham Can-Mil ;;Canada;4;47-00N;065-27W;47-01N;065-27W;31;34;
+CYCL;71;711;Charlo, N. B.;;Canada;4;47-59N;066-20W;;;38;38;P
+CYCO;71;938;Coppermine, N. W. T.;;Canada;4;67-49N;115-08W;67-50N;115-07W;22;22;P
+CYCP;71;883;Blue River, B. C.;;Canada;4;52-08N;119-18W;;;679;683;P
+CYCQ;--;---;Chetwynd Airport;;Canada;4;55-42N;121-38W;;;609;;
+CYCS;--;---;Chesterfield Inlet;;Canada;4;63-20N;090-43W;;;11;;
+CYCT;71;873;Coronation Marine Aviation Reporting Station ;;Canada;4;52-04N;111-27W;;;791;;
+CYCX;71;701;Gagetown Can-Mil ;;Canada;4;45-50N;066-26W;45-50N;066-26W;51;51;
+CYCY;71;090;Clyde, N. W. T.;;Canada;4;70-29N;068-31W;70-27N;068-33W;25;26;P
+CYDA;71;966;Dawson, Y. T.;;Canada;4;64-03N;139-08W;;;370;370;P
+CYDB;--;---;Burwash Airport;;Canada;4;61-22N;139-02W;;;807;;
+CYDC;71;886;Princeton Airport ;;Canada;4;49-28N;120-31W;;;700;;
+CYDF;71;809;Deer Lake, Nfld.;;Canada;4;49-13N;057-24W;;;17;22;P
+CYDM;--;---;Ross River Airport;;Canada;4;61-58N;132-26W;;;705;;
+CYDN;71;855;Dauphin, Man.;;Canada;4;51-06N;100-03W;51-06N;100-03W;305;305;P
+CYDP;71;902;Nain, Nfld;;Canada;4;56-33N;061-41W;;;6;7;P
+CYDQ;--;---;Dawson Creek Airport ;;Canada;4;55-45N;120-11W;;;655;;
+CYED;71;121;Edmonton Namao Alta.;;Canada;4;53-40N;113-28W;53-40N;113-28W;688;688;P
+CYEG;71;123;Edmonton International, Alta.;;Canada;4;53-18N;113-35W;53-19N;113-35W;715;723;P
+CYEK;--;---;Arviat Airport;;Canada;4;61-06N;094-04W;;;10;;
+CYEL;--;---;Elliot Lake Supplementary Aviation Weather Reporting Station ;;Canada;4;46-21N;082-34W;;;329;;
+CYEN;71;862;Estevan, Sask.;;Canada;4;49-13N;102-58W;;;572;581;P
+CYET;71;881;Edson, Alta.;;Canada;4;53-35N;116-28W;;;921;927;P
+CYEU;--;---;Eureka Man ;;Canada;4;80-00N;085-49W;;;78;;
+CYEV;71;957;Inuvik, N. W. T.;;Canada;4;68-18N;133-29W;68-19N;133-32W;59;68;P
+CYFB;71;909;Iqaluit, N. W. T.;;Canada;4;63-45N;068-33W;63-45N;068-33W;34;34;P
+CYFC;71;700;Fredericton, N. B.;;Canada;4;45-52N;066-32W;;;17;20;P
+CYFO;--;---;Flin Flon Airport;;Canada;4;54-41N;101-41W;;;304;;
+CYFR;--;---;Fort Resolution;;Canada;4;61-11N;113-41W;;;164;;
+CYFS;71;946;Fort Simpson, N. W. T.;;Canada;4;61-45N;121-14W;;;168;169;P
+CYFT;--;---;Makkovik Airport;;Canada;4;55-05N;059-11W;;;71;;
+CYGE;--;---;Golden Airport;;Canada;4;51-18N;116-59W;;;785;;
+CYGH;--;---;Fort Good Hope Airport;;Canada;4;66-16N;128-37W;;;60;;
+CYGK;71;620;Kingston, Ont.;;Canada;4;44-13N;076-36W;;;93;93;P
+CYGL;71;827;La Grande Riviere, Que;;Canada;4;53-38N;077-42W;;;195;195;P
+CYGM;71;856;Gimli Industrial, Man;;Canada;4;50-37N;097-02W;;;230;232;P
+CYGP;71;188;Gaspe, Que.;;Canada;4;48-46N;064-29W;;;33;33;P
+CYGQ;71;834;Geraldton, Ont.;;Canada;4;49-47N;086-56W;49-42N;086-57W;349;349;P
+CYGR;71;709;Iles De La Madeleineque.;;Canada;4;47-25N;061-47W;;;10;10;P
+CYGT;--;---;Igloolik Airport;;Canada;4;69-22N;081-49W;;;51;;
+CYGV;71;313;Havre St Pierre ;;Canada;4;50-17N;063-37W;;;33;;
+CYGW;71;905;Kuujjuarapik, Que.;;Canada;4;55-17N;077-46W;;;21;10;P
+CYGX;71;912;Gillam, Man.;;Canada;4;56-21N;094-42W;;;145;145;P
+CYHA;71;904;Quaqtaq Airport;;Canada;4;61-03N;069-38W;;;30;;
+CYHB;71;868;Hudson Bay, Sask.;;Canada;4;52-49N;102-19W;;;357;358;P
+CYHD;--;---;Dryden Airport;;Canada;4;49-50N;092-45W;;;413;;
+CYHE;71;114;Hope, B. C.;;Canada;4;49-22N;121-29W;;;39;39;P
+CYHH;--;---;Nemiscau Airport Supplementary Aviation Weather Reporting Station ;;Canada;4;51-42N;076-07W;;;244;;
+CYHI;--;---;Holman Island Airport;;Canada;4;70-46N;117-48W;;;36;;
+CYHK;--;---;Gjoa Haven Airport;;Canada;4;68-38N;095-51W;;;46;;
+CYHM;71;263;Hamilton Airport ;;Canada;4;43-10N;079-56W;;;237;;
+CYHU;71;371;Saint Hubert Airport ;;Canada;4;45-31N;073-25W;;;27;;
+CYHY;71;935;Hay River, N. W. T.;;Canada;4;60-50N;115-47W;;;164;166;P
+CYHZ;71;395;Halifax International Airport ;;Canada;4;44-53N;063-30W;;;145;;
+CYID;--;---;Digby Airport Aviation Weather Reporting Station ;;Canada;4;44-33N;065-47W;;;152;;
+CYIK;--;---;Ivujivik Airport Supplementary Aviation Weather Reporting Station ;;Canada;4;62-25N;077-57W;;;42;;
+CYIO;71;095;Pond Inlet, N. W. T.;;Canada;4;72-42N;077-58W;;;59;55;P
+CYIV;71;145;Island Lake, Man.;;Canada;4;53-51N;094-39W;53-52N;094-40W;237;237;P
+CYJF;--;---;Fort Liard Airport;;Canada;4;60-14N;123-29W;;;215;;
+CYJT;71;815;Stephenville, Nfld.;;Canada;4;48-32N;058-33W;48-32N;058-33W;8;26;P
+CYKA;71;887;Kamloops, B. C.;;Canada;4;50-42N;120-27W;;;345;346;P
+CYKD;--;---;Aklavik Airport;;Canada;4;68-13N;135-00W;;;7;;
+CYKF;71;368;Waterloo Well ;;Canada;4;43-28N;080-23W;;;317;;
+CYKG;--;---;Kangiqsujuaq Supplementary Aviation Weather Reporting Station ;;Canada;4;61-35N;071-56W;;;151;;
+CYKJ;71;488;Key Lake;;Canada;4;57-15N;105-37W;;;509;;
+CYKL;71;828;Schefferville, Que.;;Canada;4;54-48N;066-48W;54-48N;066-49W;521;518;P
+CYKO;--;---;Akulivik Airport;;Canada;4;60-49N;078-09W;;;20;;
+CYKQ;--;---;Waskaganish Airport;;Canada;4;51-29N;078-45W;;;23;;
+CYKY;71;129;Kindersley, Sask.;;Canada;4;51-31N;109-10W;51-31N;109-11W;694;694;P
+

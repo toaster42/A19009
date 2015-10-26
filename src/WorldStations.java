@@ -8,13 +8,12 @@ import java.util.StringTokenizer;
  * @version 1.01 - 10/17/2015
  * @studentid 5061001
  * @email michaelp.troester@gmail.com
- * @assignment.number PACKAGE_NAME
- * @screenprint <a href='PACKAGE_NAME.gif'>ScreenPrint</a>
+ * @assignment.number A19009
+ * @screenprint <a href='A19009.gif'>ScreenPrint</a>
+ * @sampleoutput <a href='../data/FBOUT.txt>Sample Output</a>
  * @prgm.usage Called directly from OS
- * @link <a href='http://jcouture.net/cisc190/PACKAGE_NAME.php'>Program Specification</a>
- * @link <br><a href='http://docs.oracle.com/javase/8/docs/
- * technotes/guides/Javadoc/index.html'>Javadoc Documentation</a>
- * IntelliJ Template 14.10 - 10/19/2014
+ * @see <a href='http://jcouture.net/cisc190/A19009.php' target='_blank'>Program Specification</a>
+ * @see <br><a href='http://docs.oracle.com/javase/8/docs/' target='_blank'>Javadoc Documentation</a>
  */
 public class WorldStations extends Stations {
 

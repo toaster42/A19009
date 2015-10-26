@@ -10,9 +10,10 @@ import java.util.Scanner;
  * @email michaelp.troester@gmail.com
  * @assignment.number A19009
  * @screenprint <a href='A19009.gif'>ScreenPrint</a>
+ * @sampleoutput <a href='../data/FBOUT.txt'>Sample Output</a>
  * @prgm.usage Called directly from OS
- * @see <a href='http://jcouture.net/cisc190/A19007.php' target='_blank'>Program Specification</a>
- * @see <br><a href='http://docs.oracle.com/javase/8/docs/technotes/guides/Javadoc/index.html'>Javadoc
+ * @see <a href='http://jcouture.net/cisc190/A19009.php' target='_blank'>Program Specification</a>
+ * @see <br><a href='http://docs.oracle.com/javase/8/docs/technotes/guides/Javadoc/index.html' target='_blank'>Javadoc
  * Documentation</a><br>
  */
 public class Stations {
@@ -69,7 +70,7 @@ public class Stations {
         String strStationID = staIndex.get(intPosition);
         return strStationID;
     }
-    
+
     /**The purpose of this method is to return number of stations in ArrayList staIndex.
      *
      * @return staIndex.size()

@@ -19,7 +19,18 @@ import java.util.StringTokenizer;
 public class WorldStations extends Stations {
 
     String[] aryWorld = new String[length()+2];
+
+    //The fields in the World Weather Station Information Text File
     private enum sta {BlockNumber, StationNumber, ID, Name, State, Country, WMORegion, Latitude, Longitude, UALatitude, UALongitude, Altitude, UAElevation, RBSN}
+
+    /**
+     * The purpose of this constructor is to create a WorldStations object based on the Winds Aloft and World Weather
+     * Station Information text file.
+     *
+     * @param strInputFileName The Winds Aloft file.
+     * @param strWorldStationsFilename The World Weather Station Information Text File.
+     * @throws Exception
+     */
     public WorldStations(String strInputFileName, String strWorldStationsFilename) throws Exception {
         super(strInputFileName);
 
@@ -163,27 +174,63 @@ public class WorldStations extends Stations {
         return strStaField;
     }
 
+    /**
+     * The purpose of this method is to return the name of the station from the World file.
+     * This method uses an enumerated type to call getStaField().
+     * @param strStationID the Station ID
+     * @return The name of the Station
+     */
     public String getName(String strStationID) {
-        return getStaField(strStationID,sta.Name.ordinal());
+        return getStaField(strStationID, sta.Name.ordinal());
     }
 
+    /**
+     * The purpose of this method is to return the latitude of the station from the World file.
+     * This method uses an enumerated type to call getStaField().
+     * @param strStationID the Station ID
+     * @return The latitude of the Station
+     */
     public String getLatitude(String strStationID) {
-        return getStaField(strStationID,sta.Latitude.ordinal());
+        return getStaField(strStationID, sta.Latitude.ordinal());
     }
 
+    /**
+     * The purpose of this method is to return the longitude of the station from the World file.
+     * This method uses an enumerated type to call getStaField().
+     * @param strStationID the Station ID
+     * @return The longitude of the Station
+     */
     public String getLongitude(String strStationID) {
-        return getStaField(strStationID,sta.Longitude.ordinal());
+        return getStaField(strStationID, sta.Longitude.ordinal());
     }
 
+    /**
+     * The purpose of this method is to return the altitude of the station from the World file.
+     * This method uses an enumerated type to call getStaField().
+     * @param strStationID the Station ID
+     * @return The altitude of the Station
+     */
     public String getAltitude(String strStationID) {
-        return getStaField(strStationID,sta.Altitude.ordinal());
+        return getStaField(strStationID, sta.Altitude.ordinal());
     }
 
+    /**
+     * The purpose of this method is to return the state of the station from the World file.
+     * This method uses an enumerated type to call getStaField().
+     * @param strStationID the Station ID
+     * @return The state of the Station
+     */
     public String getState(String strStationID) {
-        return getStaField(strStationID,sta.State.ordinal());
+        return getStaField(strStationID, sta.State.ordinal());
     }
 
+    /**
+     * The purpose of this method is to return the country of the station from the World file.
+     * This method uses an enumerated type to call getStaField().
+     * @param strStationID the Station ID
+     * @return The country of the Station
+     */
     public String getCountry(String strStationID) {
-        return getStaField(strStationID,sta.Country.ordinal());
+        return getStaField(strStationID, sta.Country.ordinal());
     }
 }

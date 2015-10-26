@@ -8,8 +8,8 @@ import java.util.Scanner;
  * @version 1.01 - 10/07/2015
  * @studentid 5061001
  * @email michaelp.troester@gmail.com
- * @assignment.number A19007
- * @screenprint <a href='A19007.gif'>ScreenPrint</a>
+ * @assignment.number A19009
+ * @screenprint <a href='A19009.gif'>ScreenPrint</a>
  * @prgm.usage Called directly from OS
  * @see <a href='http://jcouture.net/cisc190/A19007.php' target='_blank'>Program Specification</a>
  * @see <br><a href='http://docs.oracle.com/javase/8/docs/technotes/guides/Javadoc/index.html'>Javadoc
@@ -60,8 +60,6 @@ public class Stations {
         }
     }
 
-
-
     /**The purpose of this method is to return the StationID at ArrayList staIndex's given ListPosition.
      *
      * @param intPosition the ordinal within ArrayList staIndex
@@ -71,6 +69,7 @@ public class Stations {
         String strStationID = staIndex.get(intPosition);
         return strStationID;
     }
+    
     /**The purpose of this method is to return number of stations in ArrayList staIndex.
      *
      * @return staIndex.size()

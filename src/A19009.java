@@ -1,6 +1,8 @@
 import javax.swing.*;
 import java.awt.event.*;
+import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.io.PrintWriter;
 
 public class A19009 extends JDialog {
     private JPanel contentPane;
@@ -19,6 +21,7 @@ public class A19009 extends JDialog {
     static String strWindsAloftURL = "http://www.aviationweather.gov/products/nws/all";
     static String strWorldStationsFilename = "data/World.txt";
     static String strWorldStationsURL = "http://weather.noaa.gov/data/nsd_cccc.txt";
+    static String strOutputFilename = "data/FBOUT.txt";
     static String[] aryAltitudes  = {"03", "06", "09", "12", "18", "24", "30", "34", "39"};
     static int intLoadState = -1;
 
@@ -94,14 +97,49 @@ public class A19009 extends JDialog {
 
 
     /**
-     * goes through the stations in the stations class and writes out the station ID, latitude, longitude and altitude along with the Wind Direction, Speed and Temperature for each of the nine altitudes.  You will need to use the PrintWriter class for this and the file name should be FBOUT.txt.  See sample output below.
+     * The purpose of this method is to go through the stations in the stations class and write out the station ID and
+     * name, latitude, longitude and altitude along with the Wind Direction, Speed and Temperature for each of the nine
+     * altitudes in the Winds Aloft File.
      */
     private void onReport() {
 // add your code here
+        try {
+            WorldStations worldStations = new WorldStations(strWindsAloftFilename, strWorldStationsFilename);
+            try {
+                //Open output file for writing
+                PrintWriter outputFile = new PrintWriter(strOutputFilename);
+                INET inet = new INET();
+                String strStationID;
+                for(int i = 0; i < worldStations.length(); i++) {
+                    strStationID = worldStations.getStationID(i);
+                    NWSFB05 nwsfb05 = new NWSFB05(worldStations.getStaWea(strStationID));
+                    //outputFile.println
+                    outputFile.println("K" + strStationID + " - " + inet.properCase(worldStations.getName(strStationID)));
+                    outputFile.println("   Latitude:  " + worldStations.getLatitude(strStationID));
+                    outputFile.println("   Longitude: " + worldStations.getLongitude(strStationID));
+                    outputFile.println("   Elevation: " + worldStations.getAltitude(strStationID) + " meters");
+                    outputFile.println("   Station Weather for " + worldStations.getStaWea(strStationID));
+                    for(int x = 0; x <= 8; x++) {
+                        outputFile.println("   At " + aryAltitudes[x] + ",000 feet:    Dir= " +
+                                nwsfb05.getWindDirection(aryAltitudes[x] + "000") + " Speed=" +
+                                nwsfb05.getWindSpeed(aryAltitudes[x] + "000") + " Temp=" +
+                                nwsfb05.getWindTemp(aryAltitudes[x] + "000"));
+                    }
+                        outputFile.println("");
+                }
+            } catch (FileNotFoundException e) {
+                e.printStackTrace();
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
 
         //dispose();
     }
 
+    /**
+     * The purpose of this method is to gracefully close the dialog when needed
+     */
     private void onCancel() {
 // add your code here if necessary
         dispose();
@@ -163,6 +201,8 @@ public class A19009 extends JDialog {
     /**
      * The purpose of this method is to load the altitudes into the corresponding JComboBox, then update the output
      * JLables if both the altitude and stations have been loaded.
+     *
+     * @param db the WorldStations object.
      */
     public void loadAltitudes(WorldStations db) {
 
@@ -178,11 +218,13 @@ public class A19009 extends JDialog {
     /**
      * The purpose of this method is to load the station IDs from the Stations object and populate the corresponding
      * JComboBox.
-     * @param db the Stations object.
+     *
+     * @param db the WorldStations object.
      */
     private void loadAirports(WorldStations db) {
+        INET inet = new INET();
         for (int i = 0; i < db.length(); i++) {
-            cmbLocation.addItem(db.getStationID(i) + " - " + db.getName(db.getStationID(i)));
+            cmbLocation.addItem(db.getStationID(i) + " - " + inet.properCase(db.getName(db.getStationID(i))));
             //System.out.println(db.getStationID(i)); //for debugging purposes
         }
         intLoadState++;
@@ -194,8 +236,10 @@ public class A19009 extends JDialog {
     /**
      * The purpose of this method is to update the JLables in the program dialog with the appropriate wind speed, temp,
      * and direction.
+     *
      * @param strStationID The three letter station id
      * @param strAltitude the altitude in feet
+     * @param db the WorldStations object.
      */
     public void updateLabels(String strStationID, String strAltitude, WorldStations db) {
         //System.out.println("StationID: " + strStationID); //used in testing

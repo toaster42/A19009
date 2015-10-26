@@ -1,3 +1,4 @@
+import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
 import java.util.StringTokenizer;
@@ -17,6 +18,7 @@ import java.util.StringTokenizer;
  */
 public class WorldStations extends Stations {
 
+    String[] aryWorld = new String[length()+2];
     private enum sta {BlockNumber, StationNumber, ID, Name, State, Country, WMORegion, Latitude, Longitude, UALatitude, UALongitude, Altitude, UAElevation, RBSN}
     public WorldStations(String strInputFileName, String strWorldStationsFilename) throws Exception {
         super(strInputFileName);
@@ -24,26 +26,46 @@ public class WorldStations extends Stations {
         INET net = new INET();
         String strFileContents = net.getFromFile(strWorldStationsFilename);
         StringTokenizer st = new StringTokenizer(strFileContents, "\r\n", true);
-        String[] aryWorld = new String[length()];
+        //String[] aryWorld = new String[length()+1];
         int intLineCounter = 0;
+        System.out.println(length()+1);
 
-        Scanner inputFile = new Scanner(strWorldStationsFilename);
-        // Initialize a Counter
-        //int intCount = 0;
-        while (inputFile.hasNext()) {
-            strRecord = inputFile.nextLine();
-            if (strRecord.substring(7,8).equals("K")) {
-                if (exists(strRecord.substring(8,11))) {
-                    aryWorld[staIndex.indexOf(strRecord.substring(8,11))] = strRecord;
-                    //intCount++;
+        System.out.println("Reading " + strWorldStationsFilename);
+        // Open file for input (pg 248)
+        File myFile = new File(strWorldStationsFilename);
+        if (myFile.exists()) {
+            // Yea! File Exists (pg 249)
+            Scanner inputFile = new Scanner(myFile);
+            // Initialize a Counter
+            //int intCount = 0;
+
+            intLineCounter=1;
+            while (inputFile.hasNext()) {
+
+                strRecord = inputFile.nextLine();
+                //System.out.println(inputFile.nextLine());
+                //System.out.println(strRecord);
+                if (strRecord.substring(7, 8).equals("K") && staIndex.indexOf(strRecord.substring(8, 11)) != -1) {
+                    System.out.println("Record#" + intLineCounter);
+                    System.out.println(staIndex.indexOf(strRecord.substring(8, 11)));
+                    System.out.println(strRecord.substring(8,11));
+                    aryWorld[staIndex.indexOf(strRecord.substring(8, 11))] = strRecord;
+                    intLineCounter++;
+
                 }
             }
+            System.out.println(aryWorld[174]);
+            System.out.println(staList.get(174));
+            for (int i = 0; i < length(); i++) {
+                System.out.print(i + " ");
+                System.out.println(aryWorld[i]);
+                System.out.println(staList.get(i));
+            }
         }
+        //for (String s : aryWorld = new String[length()]) {
 
-        for (String s : aryWorld = new String[length()]) {
-            
-        }
-        ;
+        //}
+        //;
         /*
         3. Add an array (not an arraylist) called aryWorld that has the World.txt data in it.  Set the size of the array to the size returned by the length() method in Stations.
         4. The World file has about 11,000 records in it.  Don't waste computer memory by loading the entire World.txt file into an array or an arraylist.  As you read through the World file, check to see if that station exists in the staIndex arraylist).  If it does, add the entire record to the aryWorld array at the same index point returned by the arraylist get method.
@@ -72,16 +94,72 @@ public class WorldStations extends Stations {
      * @return strStaData - the Station Data for the given Station ID.
      */
     public String getStaData(String strStationID) {
-        String strStaData = "";
+        int intIndex = staIndex.indexOf(strStationID);
+        String strStaData = aryWorld[intIndex];
         return strStaData;
     }
 
     /**
-     * The purpose of this method is to return the field data from the World record.  The intField will need to be an enumerated field.  In use this will look like getStaField("KSAN",sta.Country). sta.Country will be an enumerated field equated to the number 5.
+     * The purpose of this method is to return the field data from the World record.
+     * The intField will need to be an enumerated field.  In use this will look like
+     * getStaField("KSAN",sta.Country). sta.Country will be an enumerated field equated
+     * to the number 5.
+     *
      * @return strStaField - The field info for the requested Station ID and Field
      */
     public String getStaField(String strStationID, int intField) {
-        String strStaField ="";
+        String strStaData = "";
+        String strStaField = "";
+        String[] staFields;
+        switch (intField) {
+            //0 BlockNumber, 1 StationNumber, 2 ID, 3 Name, 4 State, 5 Country, 6 WMORegion,
+            //7 Latitude, 8 Longitude, 9 UALatitude, 10 UALongitude, 11 Altitude, 12 UAElevation,
+            //13 RBSN
+
+            case 3 : //Name
+                if(getStaData(strStationID)!=null) {
+                    strStaData = getStaData(strStationID);
+                    staFields = strStaData.split(";");
+                    strStaField = staFields[3];
+                }
+                break;
+            case 4 : //State
+                if(getStaData(strStationID)!=null) {
+                    strStaData = getStaData(strStationID);
+                    staFields = strStaData.split(";");
+                    strStaField = staFields[4];
+                }
+                break;
+            case 5 : //Country
+                if(getStaData(strStationID)!=null) {
+                    strStaData = getStaData(strStationID);
+                    staFields = strStaData.split(";");
+                    strStaField = staFields[5];
+                }
+                break;
+            case 7 : //Latitude
+                if(getStaData(strStationID)!=null) {
+                    strStaData = getStaData(strStationID);
+                    staFields = strStaData.split(";");
+                    strStaField = staFields[7];
+                }
+                break;
+            case 8 : //Longitude
+                if(getStaData(strStationID)!=null) {
+                    strStaData = getStaData(strStationID);
+                    staFields = strStaData.split(";");
+                    strStaField = staFields[8];
+                }
+                break;
+            case 11 : //Altitude
+                if(getStaData(strStationID)!=null) {
+                    strStaData = getStaData(strStationID);
+                    staFields = strStaData.split(";");
+                    strStaField = staFields[11];
+                }
+                break;
+
+        }
         return strStaField;
     }
 

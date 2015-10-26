@@ -1,12 +1,13 @@
 import javax.swing.*;
 import java.awt.event.*;
+import java.io.IOException;
 
 public class A19009 extends JDialog {
     private JPanel contentPane;
     private JButton buttonOK;
     private JButton buttonCancel;
-    static public JComboBox cmbLocation;
-    static public JComboBox cmbAltitude;
+    private JComboBox cmbLocation;
+    private JComboBox cmbAltitude;
     private JButton btnReport;
     public JLabel lblWindDir;
     public JLabel lblWindSpeed;
@@ -32,14 +33,49 @@ public class A19009 extends JDialog {
             }
         });
 
+
+
+        cmbLocation.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                if (intLoadState == 1) {
+                    //Create Stations object from input file name, catch possible IOException
+                    WorldStations db = null;
+                    try {
+                        db = new WorldStations(strWindsAloftFilename, strWorldStationsFilename);
+                    } catch (Exception err) {
+                        err.printStackTrace();
+                    }
+
+                    updateLabels(cmbLocation.getSelectedItem().toString().substring(0,3), cmbAltitude.getSelectedItem().toString(), db);
+                }
+            }
+        });
+
+        cmbAltitude.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                if (intLoadState == 1) {
+                    //Create Stations object from input file name, catch possible IOException
+                    WorldStations db = null;
+                    try {
+                        db = new WorldStations(strWindsAloftFilename, strWorldStationsFilename);
+                    } catch (Exception err) {
+                        err.printStackTrace();
+                    }
+                    updateLabels(cmbLocation.getSelectedItem().toString().substring(0,3), cmbAltitude.getSelectedItem().toString(), db);
+                }
+            }
+        });
+
         /*buttonCancel.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
                 onCancel();
             }
-        });*/
+        });
 
         //Call ItemChangeListener()
-        cmbLocation.addItemListener(new ItemChangeListener());
+        cmbLocation.addItemListener(new ItemChangeListener());*/
 // call onCancel() when cross is clicked
         setDefaultCloseOperation(DO_NOTHING_ON_CLOSE);
         addWindowListener(new WindowAdapter() {
@@ -62,7 +98,8 @@ public class A19009 extends JDialog {
      */
     private void onReport() {
 // add your code here
-        dispose();
+
+        //dispose();
     }
 
     private void onCancel() {
@@ -86,14 +123,14 @@ public class A19009 extends JDialog {
             5. Populate your Altitude combo box.
          */
 
-        getFile(strWindsAloftFilename, strWindsAloftURL, true);
-        getFile(strWorldStationsFilename, strWorldStationsURL, false);
+        //getFile(strWindsAloftFilename, strWindsAloftURL, true);
+        //getFile(strWorldStationsFilename, strWorldStationsURL, false);
         WorldStations worldStations = new WorldStations(strWindsAloftFilename, strWorldStationsFilename);
         A19009 dialog = new A19009();
         dialog.pack();
         dialog.loadAirports(worldStations);
         dialog.loadAltitudes(worldStations);
-        dialog.setTitle("A19007 - Michael P. Troester");
+        dialog.setTitle("A19009 - Michael P. Troester");
         dialog.setVisible(true);
         System.exit(0);
     }
@@ -127,7 +164,7 @@ public class A19009 extends JDialog {
      * The purpose of this method is to load the altitudes into the corresponding JComboBox, then update the output
      * JLables if both the altitude and stations have been loaded.
      */
-    public void loadAltitudes(Stations db) {
+    public void loadAltitudes(WorldStations db) {
 
         for (int x=0; x<=8; x++) {
             cmbAltitude.addItem(aryAltitudes[x]+"000");
@@ -135,7 +172,7 @@ public class A19009 extends JDialog {
         }
         intLoadState++;
         if (intLoadState==1)
-            updateLabels(cmbLocation.getSelectedItem().toString(), cmbAltitude.getSelectedItem().toString(), db);
+            updateLabels(cmbLocation.getSelectedItem().toString().substring(0,3), cmbAltitude.getSelectedItem().toString(), db);
     }
 
     /**
@@ -143,14 +180,14 @@ public class A19009 extends JDialog {
      * JComboBox.
      * @param db the Stations object.
      */
-    private void loadAirports(Stations db) {
+    private void loadAirports(WorldStations db) {
         for (int i = 0; i < db.length(); i++) {
-            cmbLocation.addItem(db.getStationID(i));
+            cmbLocation.addItem(db.getStationID(i) + " - " + db.getName(db.getStationID(i)));
             //System.out.println(db.getStationID(i)); //for debugging purposes
         }
         intLoadState++;
         if (intLoadState==1)
-            updateLabels(cmbLocation.getSelectedItem().toString(), cmbAltitude.getSelectedItem().toString(), db);
+            updateLabels(cmbLocation.getSelectedItem().toString().substring(0,3), cmbAltitude.getSelectedItem().toString(), db);
 
     }
 
@@ -160,7 +197,7 @@ public class A19009 extends JDialog {
      * @param strStationID The three letter station id
      * @param strAltitude the altitude in feet
      */
-    public void updateLabels(String strStationID, String strAltitude, Stations db) {
+    public void updateLabels(String strStationID, String strAltitude, WorldStations db) {
         //System.out.println("StationID: " + strStationID); //used in testing
         //System.out.println("Altitude: " + strAltitude);   //used in testing
 
@@ -174,11 +211,16 @@ public class A19009 extends JDialog {
         lblWindDir.setText(fb.getWindDirection(strAltitude));
         lblWindSpeed.setText(fb.getWindSpeed(strAltitude));
         lblWindTemp.setText(fb.getWindTemp(strAltitude));
+        lblLatitude.setText(db.getLatitude(strStationID));
+        lblLongitude.setText(db.getLongitude(strStationID));
+        lblAltitude.setText(db.getAltitude(strStationID));
+
 
 
     }
 }
 
+/*
 //need to restructure updateLabels() fix static/private scopes
 //get selected item
 class ItemChangeListener implements ItemListener{
@@ -189,4 +231,4 @@ class ItemChangeListener implements ItemListener{
             A19009.updateLabels(A19009.cmbLocation.getSelectedItem().toString(), A19009.cmbAltitude.getSelectedItem().toString(), A19009.worldStations);
         }
     }
-}
+}*/
